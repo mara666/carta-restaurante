@@ -1,0 +1,38 @@
+body{
+    width:960px;
+}
+
+header{
+    border-bottom: solid black 1px;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+}
+
+nav{
+    width: 300px;
+    float: left;
+    padding: 15px;
+}
+
+section{
+    width: 610px;
+    float: right;
+    padding: 15px;
+    border-left: solid black 1px;
+    font-family: sans-serif;
+}
+
+footer{
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+nav ul a li{
+    list-style: none;
+    font-family: sans-serif;
+}
+
+ul li{
+    list-style: none;
+    font-family: sans-serif;
+}
